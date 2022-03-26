@@ -11,4 +11,4 @@ This game requires python to be installed in your computer. python can be instal
 
 This game can ONLY be used of educational purposes and personal use
 
-# Thank you for installing :)
+# Thank you for downloading :)
